@@ -1,6 +1,6 @@
 # Hi there, I'm Cindy Nufa 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Front-End+Developer;Web+Programming+Bootcamp+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Front-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CINDY&show_icons=true&theme=radical)  
 
 ---
 
