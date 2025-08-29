@@ -7,8 +7,8 @@
 ### 👨‍💻 About Me  
 🌱 **Front-End Development**  
 💻 Focused on **HTML5, CSS (Vanilla & Tailwind), JavaScript, TypeScript, ReactJS**  
-⚡ Love transforming ideas into clean, responsive, and interactive websites  
-🎯 Goal: Becoming a developer who codes not just for function, but also for experience  
+⚡ Passionate about building clean, responsive, and modern websites  
+🎯 Goal: Keep growing as a developer who blends creativity with code  
 
 ---
 
