@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me  
-🌱 Currently learning **Front-End Development** at a Web Programming Bootcamp  
+🌱 **Front-End Development**
 💻 Focused on **HTML5, CSS (Vanilla & Tailwind), JavaScript, TypeScript, ReactJS**  
 ⚡ Love transforming ideas into clean, responsive, and interactive websites  
 🎯 Goal: Becoming a developer who codes not just for function, but also for experience  
@@ -23,7 +23,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CINDY&show_icons=true&theme=radical)  
+![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CINDYNUFA&show_icons=true&theme=radical)  
 
 ---
 
