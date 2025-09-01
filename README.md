@@ -18,17 +18,17 @@
 ---
 
 ### 📊 GitHub Stats  
-![Cindy Nufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CINDYNUFAE&show_icons=true&title_color=F40B87&icon_color=F40B87&text_color=ffffff&bg_color=000000)   
+![Cindy Nufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&title_color=F40B87&icon_color=F40B87&text_color=ffffff&bg_color=000000)  
 
 ---
 
 ### ⚡ GitHub Streak 
-![Cindy Nufa's GitHub Streak]([https://streak-stats.demolab.com?user=CINDYNUFA&theme=pink&hide_border=true](https://streak-stats.demolab.com?user=CINDYNUFA&theme=dark&ring=F40B87&fire=F40B87&currStreakLabel=F40B87&sideNums=ffffff&currStreakNum=F40B87&sideLabels=ffffff&dates=999999&background=000000))  
+![Cindy Nufa's GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark&ring=F40B87&fire=F40B87&currStreakLabel=F40B87&sideNums=ffffff&currStreakNum=F40B87&sideLabels=ffffff&dates=999999&background=000000)  
 
 ---
 
 ### 🌍 Top Languages
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=CINDYNUFA&layout=compact&theme=pink](https://github-readme-stats.vercel.app/api/top-langs/?username=CINDYNUFA&layout=compact&title_color=F40B87&text_color=ffffff&bg_color=000000))  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&title_color=F40B87&text_color=ffffff&bg_color=000000)  
 
 ---
 
