@@ -16,7 +16,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -40,9 +40,29 @@
 ---
 
 ### 📫 Let’s Connect  
-🌐 [Portfolio Website] (coming soon)   
-💼 [LinkedIn](coming soon)  
-📸 [Instagram](https://www.instagram.com/xindicode)  
+<p align="left">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <span className="ml-2 text-sm italic">(Coming Soon)</span>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOURUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <span className="ml-2 text-sm italic">(Coming Soon)</span>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.instagram.com/xindicode" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.tiktok.com/@xindicode" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
 📩 Reach me via GitHub Issues or Discussions 
 
 ---
