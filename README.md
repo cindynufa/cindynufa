@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 💻 **Software Engineer, Front-End Developer**  
-🛠 Focused on **HTML5, CSS (Vanilla & Tailwind), JavaScript, TypeScript, ReactJS**  
+🛠 Focused on **HTML5, CSS (Vanilla & Tailwind), JavaScript, TypeScript, ReactJS, NextJS**  
 ⚡ Passionate about building clean, responsive, and modern websites  
 🎯 Goal: Keep growing as a developer who blends creativity with code  
 
