@@ -1,11 +1,11 @@
 # Hi, I'm Cindy Nufa 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F40B87&width=435&lines=Front-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F40B87&width=435&lines=Software+Engineer,+Front-End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me  
-💻 **Front-End Development**  
+💻 **Sofrware Engineering, Front-End Development**  
 🛠 Focused on **HTML5, CSS (Vanilla & Tailwind), JavaScript, TypeScript, ReactJS**  
 ⚡ Passionate about building clean, responsive, and modern websites  
 🎯 Goal: Keep growing as a developer who blends creativity with code  
