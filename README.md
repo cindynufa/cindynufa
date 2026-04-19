@@ -14,17 +14,13 @@
 
 ### Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-f7e4ea?style=flat-square&logo=html5&logoColor=d98ca0)
+![CSS3](https://img.shields.io/badge/CSS3-f7e4ea?style=flat-square&logo=css3&logoColor=c4b5d9)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-f7e4ea?style=flat-square&logo=tailwindcss&logoColor=a8c4d9)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7e4ea?style=flat-square&logo=javascript&logoColor=d98ca0)
+![TypeScript](https://img.shields.io/badge/TypeScript-f7e4ea?style=flat-square&logo=typescript&logoColor=c4b5d9)
+![React](https://img.shields.io/badge/React-f7e4ea?style=flat-square&logo=react&logoColor=a8c4d9)
+![Next.js](https://img.shields.io/badge/Next.js-f7e4ea?style=flat-square&logo=nextdotjs&logoColor=3d2b35)
 
 ---
 
